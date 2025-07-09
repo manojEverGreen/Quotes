@@ -12,3 +12,4 @@ a - the first vowel
 e - second vowel
 i - third vowel
 o - fourth vowel
+u - Fifth vowel
